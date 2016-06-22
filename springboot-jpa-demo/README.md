@@ -1,6 +1,6 @@
 # springboot-demo-jpa
 该demo是spring-data-jpa使用例子
-
+```
 项目打包执行
 mvn clean install
 java -jar target/springboot.demo1-0.0.1-SNAPSHOT.jar
@@ -17,3 +17,4 @@ java -jar target/springboot.demo1-0.0.1-SNAPSHOT.jar
 
 3.http://127.0.0.1:8080/users/getById?id=1
 返回id=1的用户信息
+```
